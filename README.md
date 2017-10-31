@@ -23,7 +23,7 @@ Repo following lecture of PVS 2017
 - Pinterest meme queen
 
 ### Matous Jandek
-- Chodi do skolky Kotatka
+- Too awesome to fix this
 
 ### Katerina Frickova
 - EuroFertil team - embryolog
