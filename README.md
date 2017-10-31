@@ -14,11 +14,24 @@ Repo following lecture of PVS 2017
 ### Daniel Valis
 - Socialne zaclenujici clen
 
-### XX
+### Tomas Andrejkovic
+- Nabidka sluzeb v gastronomii
 
 ## Medusa
 
 ### Zuzana Olajcova
 - Pinterest meme queen
 
-### XX
+### Matous Jandek
+- Chodi do skolky Kotatka
+
+### Katerina Frickova
+- EuroFertil team - embryolog
+
+### Jirka
+- Nejak nevim co s gitem
+
+## Need place
+
+### Michaela Kochmanova
+- Právní služby - zastupování v soudním řízení
