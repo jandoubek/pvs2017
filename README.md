@@ -1,4 +1,4 @@
-# pvs2017
+﻿# pvs2017
 Repo following lecture of PVS 2017
 
 # Teams
@@ -12,7 +12,7 @@ Repo following lecture of PVS 2017
 - Zaklinac zmiji - co delat po ustknuti
 
 ### Daniel Valis
-- Socialne zaclenujici clen
+- Nejlepšejší! 
 
 ### Tomas Andrejkovic
 - Nabidka sluzeb v gastronomii
