@@ -31,7 +31,5 @@ Repo following lecture of PVS 2017
 ### Jirka
 - Nejak nevim co s gitem
 
-## Need place
-
 ### Michaela Kochmanova
-- Právní služby - zastupování v soudním řízení
+- Budoucí inženýrka
