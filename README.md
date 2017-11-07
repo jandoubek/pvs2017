@@ -9,7 +9,7 @@ Repo following lecture of PVS 2017
 - Nestíhám .... protoze to delam na posledni chvilku
 
 ### Lucie Volavkova
-- Zaklinac zmiji - co delat po ustknuti
+- Zaklinac zmiji
 
 ### Daniel Valis
 - Nejlepšejší! 
