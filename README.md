@@ -6,7 +6,7 @@ Repo following lecture of PVS 2017
 ## DwarfVillage
 
 ### Radek Prucha
-- Opravy klaviru Praha vychod
+- Nestíhám .... protoze to delam na posledni chvilku
 
 ### Lucie Volavkova
 - Zaklinac zmiji - co delat po ustknuti
